@@ -5,4 +5,4 @@ Este repositório é o meu caderno de anotações pessoal para guias, instalaç�
 ## 📚 Sumário de Guias
 
 * [Como instalar e usar o OpenVPN 3](guias/instalar-openvpn3.md)
-<!-- Adicione seus novos tutoriais na linha de baixo seguindo o mesmo padrão -->
+* [Comandos Linux](guias/comandos-linux.md)
